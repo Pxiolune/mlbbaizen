@@ -18,7 +18,7 @@ const heroes = [
     {
         id: 'gord',
         name: "Gord",
-        image: "https://pxiolune.github.io/mlbbaizen/gord.png",
+        image: "https://pxiolune.github.io/mlbbaizen/images/gord.png",
         build: "Arcane Boots, Genius Wand, Glowing Wand",
         combo: "Gord + Tigreal",
         counters: "Lancelot, Natalia, Hayabusa"
