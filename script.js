@@ -2,7 +2,7 @@ const heroes = [
     {
         id: 'arlott',
         name: "Arlott",
-        image: "arlott.png",
+        image: "https://pxiolune.github.io/mlbbaizen/arlott.png",
         build: "Warrior Boots, Bloodlust Axe, Dominance Ice",
         combo: "Arlott + Khufra",
         counters: "Valir, Kaja, Edith"
