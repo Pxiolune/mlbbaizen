@@ -10,7 +10,7 @@ const heroes = [
     {
         id: 'tigreal',
         name: "Tigreal",
-        image: "https://pxiolune.github.io/mlbbaizen/tigreal.png",
+        image: "images/tigreal.png",
         build: "Courage Mask, Antique Cuirass, Immortality",
         combo: "Tigreal + Yve",
         counters: "Esmeralda, Chou, Baxia"
@@ -18,7 +18,7 @@ const heroes = [
     {
         id: 'gord',
         name: "Gord",
-        image: "https://pxiolune.github.io/mlbbaizen/images/gord.png",
+        image: "images/gord.png",
         build: "Arcane Boots, Genius Wand, Glowing Wand",
         combo: "Gord + Tigreal",
         counters: "Lancelot, Natalia, Hayabusa"
